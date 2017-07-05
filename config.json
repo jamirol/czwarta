@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "jh3jpcb1t1bcm80gidkadilh080aq79h",
+      "css": "menu",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "6f7586c6f99798c3c1de6123d1f6cfa9",
+      "css": "facebook",
+      "code": 59393,
+      "src": "zocial"
+    },
+    {
+      "uid": "2653481d01fec1b76247dbeffb74033e",
+      "css": "dribbble",
+      "code": 61520,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "003ba8187d6b00ec3e1ba75d00f1246a",
+      "css": "dribbble-1",
+      "code": 59394,
+      "src": "zocial"
+    },
+    {
+      "uid": "e566d3f1d24f22981f6552d5188e7265",
+      "css": "gplus",
+      "code": 59395,
+      "src": "zocial"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "css": "twitter-bird",
+      "code": 62211,
+      "src": "brandico"
+    },
+    {
+      "uid": "84f3880057574e968053d6d6c8a7b216",
+      "css": "behance",
+      "code": 62286,
+      "src": "entypo"
+    }
+  ]
+}
